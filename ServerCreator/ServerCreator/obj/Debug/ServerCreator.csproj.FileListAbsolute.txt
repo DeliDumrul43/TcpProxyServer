@@ -1,0 +1,14 @@
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\bin\Debug\ServerCreator.exe.config
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\bin\Debug\ServerCreator.exe
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\bin\Debug\ServerCreator.pdb
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\bin\Debug\websocket-sharp.dll
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\bin\Debug\websocket-sharp.xml
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.AssemblyReference.cache
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.Form1.resources
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.Properties.Resources.resources
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.GenerateResource.cache
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.CoreCompileInputs.cache
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.csproj.CopyComplete
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.exe
+C:\Users\Sanberk\Source\Repos\ServerCreator\ServerCreator\obj\Debug\ServerCreator.pdb
